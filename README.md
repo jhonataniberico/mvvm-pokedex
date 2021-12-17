@@ -21,7 +21,7 @@ Y buscamos el dispositivo Nexus 6 -> luego seleccionamos la versión de android 
 Y con ello finalizamos la instalación del dispositivo.
 
 <p align="center">
-<img src="/previews/android1.png"/>
+<img src="https://developer.android.com/studio/images/run/avd-manager-device_2x.png?hl=es-419"/>
 </p>
 
 </br>
@@ -31,5 +31,5 @@ Para Finalizar la ejecución del programa vamos a abrir el proyecto deesde el An
 </p>
 
 <p align="center">
-<img src="/previews/android2.png"/>
+<img src="https://developer.android.com/studio/images/run/deploy-run-app.png?hl=es-419"/>
 </p>
